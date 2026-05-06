@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcb6ed7efc1ec1447af27b5e32c0c3cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arCamera: {instanceID: 0}
+  - redCubePrefab: {fileID: 8347759668576236635, guid: a156a5eb8ea0b694ba41a908031253a0, type: 3}
+  - blueCubePrefab: {fileID: 728615865345427642, guid: 944ad4e54ac62274f8f0797876064a33, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
